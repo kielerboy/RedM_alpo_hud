@@ -1,0 +1,15 @@
+Locales['de'] = {
+    ['zona'] = 'Zone: %s',
+    ['dia'] = 'Tag: %s',
+    ['temp'] = 'Temperatur: %s',
+    ['hora'] = 'Stunde: %s',
+    ['fuera_ciudad'] = '~COLOR_REDLIGHT~Außerhalb der Stadt',
+    ['lunes'] = 'Montag',
+    ['martes'] = 'Diensttag',
+    ['miercoles'] = 'Mittwoch',
+    ['jueves'] = 'Donnerstag',
+    ['viernes'] = 'Freitag',
+    ['sabado'] = 'Samstag',
+    ['domingo'] = 'Sonntag',
+    ['job'] = 'arbeitslos',
+}
